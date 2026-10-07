@@ -13,6 +13,4 @@
 
 ## Unique Systems
 
-***
-
 * [☄️ Attack Speed](attack-speed.md)
