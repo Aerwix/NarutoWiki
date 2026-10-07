@@ -11,6 +11,12 @@
 * [Jounin Test](quest/jounin-test.md)
 * [Kage Test](quest/kage-test.md)
 
+## Items
+
+***
+
+* [Page 1](page-1.md)
+
 ## Unique Systems
 
 * [☄️ Attack Speed](attack-speed.md)
