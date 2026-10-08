@@ -4,7 +4,7 @@
 
 ## Quest
 
-* [Orphanage Quest](quest/orphanage-quest.md)
+* [🙉 Orphanage Quest](quest/orphanage-quest.md)
 * [Academy Ninja Quest](quest/academy-ninja-quest.md)
 * [Genin Test](quest/genin-test.md)
 * [Chunin Test](quest/chunin-test.md)
