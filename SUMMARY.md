@@ -21,3 +21,4 @@
 
 * [🔻 Crowd Control](unique-systems/crowd-control.md)
 * [☄️ Attack Speed](attack-speed.md)
+* [Skills](unique-systems/skills.md)
