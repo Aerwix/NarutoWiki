@@ -2,6 +2,8 @@
 
 ### :zap: Stun
 
+**Effect: The character will be blocked from all kind of actions.**
+
 * \[:x:] Can not use jutsus.
 * \[:x:] Can not move your character.
 * \[:x:] Can not do basic attacks.
@@ -19,3 +21,7 @@
 
 * \[:x:] Cannot walk/move
 * \[:white\_check\_mark:] Can use spells and basic attacks.
+
+### 🛡️ Invulnerable
+
+**Effect: The character will not receive any kind of damage.**
