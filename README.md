@@ -28,5 +28,6 @@ layout:
 
 # Welcome
 
-Naruto Story Rebith
 
+
+<figure><img src=".gitbook/assets/background.png" alt=""><figcaption></figcaption></figure>
