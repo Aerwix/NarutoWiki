@@ -40,3 +40,11 @@ Ability to cast random jutsus every certain time.
 
 </details>
 
+<details>
+
+<summary><strong>Dodge</strong></summary>
+
+Train your shielding to dodge basic attacks.
+
+</details>
+
