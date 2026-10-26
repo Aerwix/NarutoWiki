@@ -10,7 +10,6 @@
 * [Rank B - Chunin Test](ranking/chunin-test.md)
 * [Rank A - Jounin Test](ranking/jounin-test.md)
 * [Rank S - Kage Test](ranking/kage-test.md)
-* [🌟 Ranking System](ranking/ranking-system.md)
 
 ## Items
 
@@ -23,3 +22,4 @@
 * [🔻 Crowd Control](unique-systems/crowd-control.md)
 * [☄️ Attack Speed](attack-speed.md)
 * [💪 Skills](unique-systems/skills.md)
+* [🌟 Ranking](unique-systems/ranking.md)
