@@ -2,14 +2,15 @@
 
 * [Welcome](README.md)
 
-## Quest
+## 🔝 Ranking
 
-* [Orphanage Quest](quest/orphanage-quest.md)
-* [Academy Ninja Quest](quest/academy-ninja-quest.md)
-* [Genin Test](quest/genin-test.md)
-* [Chunin Test](quest/chunin-test.md)
-* [Jounin Test](quest/jounin-test.md)
-* [Kage Test](quest/kage-test.md)
+* [Rank E - Orphanage Quest](ranking/orphanage-quest.md)
+* [Rank D - Academy Student Quest](ranking/academy-ninja-quest.md)
+* [Rank C - Genin Test](ranking/genin-test.md)
+* [Rank B - Chunin Test](ranking/chunin-test.md)
+* [Rank A - Jounin Test](ranking/jounin-test.md)
+* [Rank S - Kage Test](ranking/kage-test.md)
+* [🌟 Ranking System](ranking/ranking-system.md)
 
 ## Items
 
