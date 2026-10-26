@@ -4,7 +4,7 @@
 
 * <mark style="color:$warning;">**Experience**</mark>
 * <mark style="color:$danger;">**Basic Attacks**</mark>
-* <mark style="color:$danger;">**Jutsu Damage**</mark>**,**&#x20;
+* <mark style="color:$danger;">**Jutsu Damage**</mark>
 * <mark style="color:green;">**Healing**</mark>
 * <mark style="color:$success;">**Max Health**</mark>**&#x20;and&#x20;**<mark style="color:blue;">**Max Chakra**</mark>
 
